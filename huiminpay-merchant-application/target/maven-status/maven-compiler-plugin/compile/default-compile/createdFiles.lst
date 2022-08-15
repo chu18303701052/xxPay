@@ -1,0 +1,7 @@
+com\huiminpay\MerchantApplicationBootstrap.class
+com\huiminpay\merchant\convert\MerchanConvertMapper.class
+com\huiminpay\service\MerchantAppService.class
+com\huiminpay\controller\MerchantController.class
+com\huiminpay\merchant\convert\MerchanConvertMapperImpl.class
+com\huiminpay\vo\MerchantRegisterVO.class
+com\huiminpay\merchant\config\SwaggerConfiguration.class

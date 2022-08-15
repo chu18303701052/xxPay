@@ -1,0 +1,22 @@
+[${project.name}][${env:SERVER_PORT}] 2022-08-11 11:45:28,587 ERROR
+            [main][LoggingFailureAnalysisReporter.java:42] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call the method com.baomidou.mybatisplus.core.MybatisConfiguration.init(Lcom/baomidou/mybatisplus/core/config/GlobalConfig;)V but it does not exist. Its class, com.baomidou.mybatisplus.core.MybatisConfiguration, is available from the following locations:
+
+    jar:file:/D:/Maven/maven-repository/com/baomidou/mybatis-plus-core/3.1.2/mybatis-plus-core-3.1.2.jar!/com/baomidou/mybatisplus/core/MybatisConfiguration.class
+
+It was loaded from the following location:
+
+    file:/D:/Maven/maven-repository/com/baomidou/mybatis-plus-core/3.1.2/mybatis-plus-core-3.1.2.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration
+

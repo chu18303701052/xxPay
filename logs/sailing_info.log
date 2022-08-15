@@ -1,0 +1,1 @@
+[sailing][${env:SERVER_PORT}] 2022-08-11 20:43:37,369 INFO [Thread-39][ExecutorConfigurationSupport.java:208] - Shutting down ExecutorService 'applicationTaskExecutor'

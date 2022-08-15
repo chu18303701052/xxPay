@@ -1,0 +1,29 @@
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:28,168 INFO [main][StartupInfoLogger.java:50] - Starting SailingBootstrap on DESKTOP-6RC64G1 with PID 23292 (D:\IDEA2021.1\workspacepro\huiminpay\sailing\target\classes started by 12719 in D:\IDEA2021.1\workspacepro\huiminpay)
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:28,214 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:34,420 INFO [main][RepositoryConfigurationDelegate.java:244] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:34,450 INFO [main][RepositoryConfigurationDelegate.java:126] - Bootstrapping Spring Data repositories in DEFAULT mode.
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:34,659 INFO [main][RepositoryConfigurationDelegate.java:182] - Finished Spring Data repository scanning in 148ms. Found 0 repository interfaces.
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:36,892 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 56085 (http)
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:36,960 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-56085"]
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:36,990 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:36,992 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:37,010 INFO [main][DirectJDKLog.java:173] - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:37,012 INFO [main][DirectJDKLog.java:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:37,012 INFO [main][DirectJDKLog.java:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:37,023 INFO [main][DirectJDKLog.java:173] - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:40,382 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:40,383 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 11953 ms
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:44,150 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:44,422 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:44,905 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:45,953 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:46,058 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:46,207 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:46,723 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-56085"]
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:46,794 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 56085 (http) with context path '/sailing'
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:46,805 INFO [main][StartupInfoLogger.java:59] - Started SailingBootstrap in 20.303 seconds (JVM running for 31.511)
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:47,250 INFO [RMI TCP Connection(4)-192.168.62.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:47,251 INFO [RMI TCP Connection(4)-192.168.62.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:47,273 INFO [RMI TCP Connection(4)-192.168.62.1][FrameworkServlet.java:546] - Completed initialization in 21 ms
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:47,685 INFO [RMI TCP Connection(3)-192.168.62.1][EpollProvider.java:68] - Starting without optional epoll library
+[sailing][${env:SERVER_PORT}] 2022-08-11 18:52:47,692 INFO [RMI TCP Connection(3)-192.168.62.1][KqueueProvider.java:70] - Starting without optional kqueue library

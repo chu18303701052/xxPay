@@ -1,0 +1,4 @@
+[${project.name}][${env:SERVER_PORT}] 2022-08-07 12:00:00,611 DEBUG
+            [NettyClientWorker-1-3][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x872b4b65, L:/192.168.62.1:64210 - R:/192.168.62.1:20890]], dubbo version: 2.7.3, current host: 192.168.62.1
+[${project.name}][${env:SERVER_PORT}] 2022-08-07 12:00:00,612 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.62.1

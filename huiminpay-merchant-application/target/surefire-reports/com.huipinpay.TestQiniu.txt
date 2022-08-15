@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.huipinpay.TestQiniu
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.478 s - in com.huipinpay.TestQiniu

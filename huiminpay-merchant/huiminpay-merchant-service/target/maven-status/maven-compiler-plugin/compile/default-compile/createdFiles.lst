@@ -1,0 +1,15 @@
+com\huiminpay\MerchantBootstrap.class
+com\huiminpay\merchant\mapper\StoreMapper.class
+com\huiminpay\merchant\mapper\MerchantMapper.class
+com\huiminpay\merchant\convert\MerchantConvertMapper.class
+com\huiminpay\merchant\entity\Merchant.class
+com\huiminpay\merchant\mapper\StoreStaffMapper.class
+com\huiminpay\merchant\entity\App.class
+com\huiminpay\merchant\mapper\AppMapper.class
+com\huiminpay\merchant\service\MerchantServiceImpl.class
+com\huiminpay\merchant\entity\StoreStaff.class
+com\huiminpay\merchant\entity\Staff.class
+com\huiminpay\merchant\config\MyBatisPlus.class
+com\huiminpay\merchant\convert\MerchantConvertMapperImpl.class
+com\huiminpay\merchant\mapper\StaffMapper.class
+com\huiminpay\merchant\entity\Store.class

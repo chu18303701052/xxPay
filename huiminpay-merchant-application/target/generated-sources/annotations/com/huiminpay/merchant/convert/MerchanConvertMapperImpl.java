@@ -6,8 +6,8 @@ import javax.annotation.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-08-11T19:22:04+0800",
-    comments = "version: 1.3.0.Final, compiler: javac, environment: Java 1.8.0_181 (Oracle Corporation)"
+    date = "2023-03-07T10:19:42+0800",
+    comments = "version: 1.3.0.Final, compiler: javac, environment: Java 11.0.6 (JetBrains s.r.o)"
 )
 public class MerchanConvertMapperImpl implements MerchanConvertMapper {
 

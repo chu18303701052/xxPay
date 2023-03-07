@@ -82,7 +82,7 @@ public class MerchantAppService {
         if(!PhoneUtil.isMatches(merchantRegisterVO.getMobile())){
             ExceptionCast.cast(CommonErrorCode.E_100109);
         }
-//手机号已存在 在service中做了判断
+        //手机号已存在 在service中做了判断
         Boolean flag = merchantService.existMerchantByMobile(merchantRegisterVO.getMobile());
          if(flag){
              ExceptionCast.cast(CommonErrorCode.E_100113);
